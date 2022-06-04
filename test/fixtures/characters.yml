@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  class: MyString
+  player_name: MyString
+  race: MyString
+  alignment: MyString
+  experience_points: 1
+  level: 1
+
+two:
+  name: MyString
+  class: MyString
+  player_name: MyString
+  race: MyString
+  alignment: MyString
+  experience_points: 1
+  level: 1
